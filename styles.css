@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+ #sizeInfo {
+            padding: 20px;
+            border: 1px solid #000;
+            display: inline-block;
+            margin-top: 20px;
+        }
